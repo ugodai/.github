@@ -1,5 +1,3 @@
-# UGODAI
-
 **Know before you spend.**
 
 UGODAI builds technologies that help people understand the consequences of their decisions before committing to them.
