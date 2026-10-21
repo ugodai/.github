@@ -1,12 +1,8 @@
-**Know before you spend.**
+## Projects
 
 UGODAI builds technologies that help people understand the consequences of their decisions before committing to them.
 
 Our work spans two complementary areas: AI-powered financial decision support and invariant verification for distributed systems.
-
-We believe better decisions begin with understanding what remains true, what might change, and what follows from the choices we make.
-
-## Projects
 
 ### [UGODAI Wallet](https://github.com/ugodai/wallet)
 
@@ -16,13 +12,11 @@ UGODAI Wallet helps you understand the consequences of your financial decisions 
 
 Instead of focusing solely on transactions and balances, we're exploring how AI can help people reason about financial choices, evaluate potential outcomes, and make decisions with greater confidence.
 
-**Know before you spend.**
+**Know before you spend!**
 
 ### [Proof of Invariant (PoI)](https://github.com/ugodai/invariant)
 
-**A methodology for verifying invariants.**
-
-Proof of Invariant (PoI) is an invariant verification methodology and a set of mechanisms.
+**A methodology for verifying invariants.** and a set of mechanisms.     
 
 It provides a foundation for reasoning about properties that must remain true, with applications to distributed systems and ledger architectures.
 
@@ -42,4 +36,4 @@ Explore our repositories, review the documentation, open issues, and contribute 
 
 ---
 
-**UGODAI — Know before you spend.**
+**UGODAI — Know before you spend!**
